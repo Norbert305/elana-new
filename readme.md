@@ -19,12 +19,12 @@ https://chrome.google.com/webstore/detail/gitpod-always-ready-to-co/dodmmooeokla
  git push
 
 # Commands to start front and back end:
- <p>npm install</p> 
- <p>npm run dev</p>
+
+npm run dev
 
 #Command to start front end only:
- <p>npm install</p>
- <p>npm run client</p>
+
+npm run client
 
 # Command to start backend only:
 
