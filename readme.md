@@ -1,3 +1,8 @@
+
+# Please Install GitPod Chrome Extension here:
+https://chrome.google.com/webstore/detail/gitpod-always-ready-to-co/dodmmooeoklaejobgleioelladacbeki
+
+
 # Commands to push code into makeimvp repo directly (Do this before coding):
 
  git checkout Paola
