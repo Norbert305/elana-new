@@ -2,6 +2,9 @@
 # Please Install GitPod Chrome Extension here:
 https://chrome.google.com/webstore/detail/gitpod-always-ready-to-co/dodmmooeoklaejobgleioelladacbeki
 
+<br/>
+
+<h5>Will need a connection string for the backend with MongoDB</h5>
 
 # Commands to push code into makeimvp repo directly (Do this before coding):
 
